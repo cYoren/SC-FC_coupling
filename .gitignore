@@ -1,0 +1,18 @@
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Outputs (large, reproducible)
+outputs/matrices/
+outputs/figures/
+outputs/registration/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
